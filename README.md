@@ -154,7 +154,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Abhishek Mukherjee - mukherjeea2017@gmail.com
 
-Github Project Link: [[https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-AbhishekM2001)]([https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-AbhishekM2001))
+Github Project Link: [https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-AbhishekM2001)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
